@@ -1,8 +1,8 @@
 ---
-layout: cv
+layout: cv -GD
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Isaac Newton -GD
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
