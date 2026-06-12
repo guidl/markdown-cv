@@ -8,6 +8,10 @@ For more details, see the [project page](http://elipapa.github.io/markdown-cv), 
 
 ## Customization
 
+My localition to into the read Me
+https://guidl.github.io/markdown-cv/
+
+
 Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
 
 ![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
